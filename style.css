@@ -118,7 +118,7 @@ body {
 }
 
 /* mobile*/
-@media (max-width: 375px) {
+@media (max-width: 600px) {
   .card {
     width: 375px;
     margin: 20px auto;
